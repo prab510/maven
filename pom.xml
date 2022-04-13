@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.mycompany.app</groupId>
-  <artifactId>payments</artifactId>
+  <artifactId>mycompany</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <name>payments</name>
